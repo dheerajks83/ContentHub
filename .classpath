@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="app-subs-handler/src/main/java"/>
+	<classpathentry kind="src" path="app-content-retriever/src/main/java"/>
+	<classpathentry kind="src" path="app-notifier/src/main/java"/>
+	<classpathentry kind="src" path="app-ping-handler/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
